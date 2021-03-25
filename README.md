@@ -9,7 +9,7 @@ Digital-Image-Processing-Project had been undertaken by my team for the purpose 
 ## Installation
 
 ```git
-git clone https://github.com/nimishbongale/Digital-Image-Processing-Project.git
+git clone https://github.com/nidhicpatel/Digital-Image-Processing-Project.git
 ```
 
 ## Usage
